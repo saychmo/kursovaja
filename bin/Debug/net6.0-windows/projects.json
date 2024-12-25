@@ -1,0 +1,95 @@
+[
+  {
+    "ProjectName": "\"Разработка мобильного приложения\"",
+    "Cost": "15000",
+    "StartDate": "2024-07-07T12:49:48",
+    "EndDate": "2024-12-07T12:49:48",
+    "ProjectLeader": {
+      "Surname": "Авдюков",
+      "Name": null,
+      "Patronymic": null,
+      "Gender": null,
+      "DateOfBirth": "0001-01-01T00:00:00",
+      "Address": null,
+      "Specialty": null,
+      "Experience": null,
+      "Education": null,
+      "EducationDocument": null,
+      "Salary": "0",
+      "PhotoPath": null
+    },
+    "ProjectClient": {
+      "Name": "ООО \"Технологии Будущего\"",
+      "Address": "ул.Мира, д.20",
+      "BankName": "ВТБ",
+      "AccountNumber": "40703810100001234567",
+      "INN": "1234567890",
+      "ResponsiblePerson": "А.И.Попов",
+      "ResponsiblePersonPhone": "8-913-1234567"
+    },
+    "TeamMembers": [],
+    "PremiumRate": "2500"
+  },
+  {
+    "ProjectName": "\"Создание веб-платформы для онлайн-обучения\"",
+    "Cost": "58000",
+    "StartDate": "2024-12-25T13:19:23.3060222+07:00",
+    "EndDate": "2024-12-25T13:19:23.3034647+07:00",
+    "ProjectLeader": {
+      "Surname": "Адодин",
+      "Name": null,
+      "Patronymic": null,
+      "Gender": null,
+      "DateOfBirth": "0001-01-01T00:00:00",
+      "Address": null,
+      "Specialty": null,
+      "Experience": null,
+      "Education": null,
+      "EducationDocument": null,
+      "Salary": "0",
+      "PhotoPath": null
+    },
+    "ProjectClient": {
+      "Name": "АО \"Образовательные Решения\"",
+      "Address": "ул.Весенняя, д.15",
+      "BankName": "Сбербанк",
+      "AccountNumber": "40817810099910004312",
+      "INN": "121234340",
+      "ResponsiblePerson": "А.С.Пушкарев",
+      "ResponsiblePersonPhone": "8-983-1230011"
+    },
+    "TeamMembers": [],
+    "PremiumRate": "30000"
+  },
+  {
+    "ProjectName": "павп",
+    "Cost": "53",
+    "StartDate": "2024-12-25T13:37:35.6765559+07:00",
+    "EndDate": "2024-12-25T13:37:35.6732487+07:00",
+    "ProjectLeader": {
+      "Surname": "Албычакова",
+      "Name": null,
+      "Patronymic": null,
+      "Gender": null,
+      "DateOfBirth": "0001-01-01T00:00:00",
+      "Address": null,
+      "Specialty": null,
+      "Experience": null,
+      "Education": null,
+      "EducationDocument": null,
+      "Salary": "0",
+      "PhotoPath": null
+    },
+    "ProjectClient": {
+      "Name": "апв",
+      "Address": "апв",
+      "BankName": "апвпа",
+      "AccountNumber": "543",
+      "INN": "543",
+      "ResponsiblePerson": "пав",
+      "ResponsiblePersonPhone": "34"
+    },
+    "TeamMembers": [],
+    "PremiumRate": "4324"
+  }
+]

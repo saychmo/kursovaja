@@ -1,0 +1,44 @@
+[
+  {
+    "Surname": "Авдюков ",
+    "Name": "Богдан",
+    "Patronymic": "Алексеевич",
+    "Gender": "муж",
+    "DateOfBirth": "2005-10-01T01:21:19",
+    "Address": "ул.Зорге, д.10, кв.20",
+    "Specialty": "Лаборант",
+    "Experience": "1 год",
+    "Education": "НГТУ",
+    "EducationDocument": "высшее – бакалавриат",
+    "Salary": "40000",
+    "PhotoPath": "C:\\Users\\user\\OneDrive\\Yoz6S1ekd3U.jpg"
+  },
+  {
+    "Surname": "Адодин",
+    "Name": "Петр",
+    "Patronymic": "Юрьевич",
+    "Gender": "муж",
+    "DateOfBirth": "1998-10-01T01:21:19",
+    "Address": "ул.Громова, д.1, кв.2",
+    "Specialty": "Менеджер",
+    "Experience": "1 год",
+    "Education": "НГУЭУ",
+    "EducationDocument": "высшее – бакалавриат",
+    "Salary": "60500",
+    "PhotoPath": "C:\\Users\\user\\OneDrive\\aed9389239da6d79ed0df5eef6f335c0.jpg"
+  },
+  {
+    "Surname": "Албычакова",
+    "Name": "Карина",
+    "Patronymic": "Алексеевна",
+    "Gender": "жен",
+    "DateOfBirth": "1991-05-09T01:21:19",
+    "Address": "ул.Мира, д.14, кв.88",
+    "Specialty": "Бухгалтер",
+    "Experience": "1 год",
+    "Education": "НГТУ",
+    "EducationDocument": "высшее – бакалавриат",
+    "Salary": "80000",
+    "PhotoPath": "C:\\Users\\user\\OneDrive\\58482f8a6cd511ee8b6dda477c0f1ee2_upscaled.jpg"
+  }
+]
